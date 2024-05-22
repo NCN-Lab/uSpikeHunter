@@ -9,9 +9,9 @@ Heiney K, Mateus J, Lopes C, Neto E, Lamghari M, Aguiar P, “µSpikeHunter: An 
 
 https://www.nature.com/articles/s41598-019-42148-3
 
-μSpikeHunter was developed by Kristine Heiney and Paulo Aguiar, at the <a href="https://www.i3s.up.pt/research-group.php?groupid=125">Neuroengineering and Computational Neuroscience Lab</a>, INEB/i3S.
+μSpikeHunter was developed by Kristine Heiney and Paulo Aguiar, at the <a href="https://www.i3s.up.pt/research-group.php?groupid=125">Neuroengineering and Computational Neuroscience Lab</a>, i3S.
 
-For questions, comments, or bug reports, please send an email to: pauloaguiar@ineb.up.pt
+For questions, comments, or bug reports, please send an email to: pauloaguiar@i3S.up.pt
 
 To run μSpikeHunter:
 1.	Open MATLAB
